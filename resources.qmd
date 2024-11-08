@@ -1,0 +1,72 @@
+---
+title: "Lab Resources & Policies"
+---
+
+## Communication Guidelines
+
+Our lab values clear, timely, and respectful communication. We use several channels for different purposes:
+
+### Communication Tools
+
+::: {.grid}
+::: {.g-col-6}
+#### Email
+- Primary channel for formal communication
+- Include "[secure]" for PHI
+- Expected response: 24 hours
+- Follow-up welcome if needed
+:::
+
+::: {.g-col-6}
+#### Secure Messaging (Voalte)
+- For PHI communications
+- Business hours only
+- Time-sensitive matters
+:::
+
+::: {.g-col-6}
+#### Text Messaging
+- Quick check-ins
+- Reminder notifications
+- No PHI or sensitive info
+:::
+
+::: {.g-col-6}
+#### Face-to-Face
+- Problem-solving
+- Complex discussions
+- Brainstorming sessions
+:::
+:::
+
+## Lab Meetings
+
+### Weekly Lab Meetings
+- Wednesdays 1:00-2:00 PM
+- All members expected to attend
+- Rotating presentations
+- Group learning and discussion
+
+### Individual Meetings
+- Weekly during first year
+- Frequency adjusts based on needs
+- Career development focus
+- Project guidance and support
+
+## Getting Started
+
+### New Lab Member Checklist
+1. Complete HR paperwork
+2. Obtain identification badge
+3. Secure login credentials
+4. Schedule initial PI meeting
+5. Complete Individual Development Plan
+6. Submit website information
+
+### Required Training
+- IRB certification
+- CITI training modules
+- Lab-specific training as needed
+- Keep certifications current
+
+[View Complete Lab Manual](lab-manual.pdf)

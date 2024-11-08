@@ -1,0 +1,60 @@
+---
+title: "Our Mission & Values"
+---
+
+## Scientific Mission
+
+Our lab's mission is to reduce pediatric morbidity and mortality using health services research (HSR) and community-engaged research (CEnR/CBPR) approaches.
+
+### We accomplish this by:
+- Identifying modifiable factors that influence child health outcomes
+- Partnering with communities to develop effective interventions
+- Translating research findings into actionable policy recommendations
+- Building evidence for interventions that reduce health disparities
+
+## Vision
+
+We envision a future where all children have the opportunity to thrive, regardless of their social or economic circumstances. We strive to be a leading research group that:
+
+- Bridges the gap between academic research and community needs
+- Develops innovative solutions to complex pediatric health challenges
+- Trains the next generation of health services researchers
+- Creates lasting positive change in pediatric healthcare delivery and outcomes
+
+## Core Values
+
+::: {.grid}
+
+::: {.g-col-6}
+### Scientific Integrity
+- Commitment to rigorous, reproducible, and transparent scientific methods
+- Maintaining high standards for data quality and analysis
+- Supporting open science practices
+- Fostering a culture of continuous learning and improvement
+:::
+
+::: {.g-col-6}
+### Health Equity
+- Prioritizing research that addresses health disparities
+- Working to improve health outcomes for vulnerable patients
+- Reducing inequalities wherever possible
+- Ensuring our research benefits underserved communities
+:::
+
+::: {.g-col-6}
+### Inclusive Excellence
+- Recognizing valuable insights from all stakeholders
+- Ensuring all voices are heard and respected
+- Fostering a collaborative and supportive environment
+- Embracing diverse perspectives and experiences
+:::
+
+::: {.g-col-6}
+### Continuous Improvement
+- Adopting a process improvement mindset
+- Regularly evaluating and refining our methods
+- Being responsive to feedback from community partners
+- Supporting professional growth and development
+:::
+
+:::

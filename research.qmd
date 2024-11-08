@@ -1,0 +1,57 @@
+---
+title: "Research"
+---
+
+# Our Research
+
+Our lab's mission to reduce pediatric morbidity and mortality using health services research (HSR) and community-engaged research (CEnR/CBPR) approaches. Our work spans several key areas:
+
+:::: {.columns}
+
+::: {.column width="60%"}
+## Project 1: Geospatial Analysis
+
+Through collaborations with the UConn GIS Health Lab at Connecticut Children's we investigate the impact of place on pediatric health disparities. 
+:::
+
+::: {.column width="40%"}
+![](images/noun-gis-1479180.png){width=100px}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+## Project 2: Low Value Care
+
+Collaborating with Dr. Kimia's NLP tool [DrT](https://documentreviewtools.com/) to investigate predictors of Low Value Care in pediatrics.
+:::
+
+::: {.column width="40%"}
+![](images/noun-nlp-6950747.png){width=100px}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+## Project 3: Health Services Research
+
+Using large datasets, we analyze the impact of social determinants of health on pediatric respiratory morbidity and mortality.
+:::
+
+::: {.column width="40%"}
+![](images/noun-hospital-1778359.png){width=100px}
+:::
+
+::::
+
+# Collaborations
+
+We actively collaborate with researchers from:
+
+- CHA/PHIS
+- UCONN GIS Lab at CT Children's
+- Connecticut Children's COVID Collaborative
