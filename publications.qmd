@@ -4,25 +4,36 @@ title: "Publications"
 
 # Publications
 
+## 2026
+
+1. **Hogan AH**, Adams A, Brugge D, Beck AF, Ghosh D. Mapping Bronchiolitis in Connecticut Before and After the COVID-19 Pandemic. *Pediatric Pulmonology*. 2026;61(1):e71450. doi: 10.1002/ppul.71450
+
+## 2025
+
+2. Zambrano LD, Simeone RM, Newhams MM, Payne AB, Halasa NB, Orzel-Lockwood AO, Calixte JM, Kamidani S, Crandall H, Cameron MA, Schuster JE, Maddux AB, Chiotos K, Irby K, Shein SL, Staat MA, Martin LM, Bhumbra SS, Nofziger RA, Chauhan JC, Zerr DM, Gertz SJ, Guzman-Cottrill JA, Kong M, Hume JR, Coates BM, Michelson KN, Levy ER, Bradford TT, Schwartz SP, Walker TC, Stockwell MS, Biggs A, **Hogan AH**, Lindsey K, Campbell AP, Randolph AG; Overcoming RSV Investigators. Nirsevimab Effectiveness Against Intensive Care Unit Admission for Respiratory Syncytial Virus in Infants — 24 States, December 2024–April 2025. *MMWR Morb Mortal Wkly Rep*. 2025 Nov 20;74(37):580–588. doi: 10.15585/mmwr.mm7437a1. PMID: 41348586
+
+3. Gross RS, Thaweethai T, Salisbury AL, ..., **Hogan A**, ..., Stockwell MS. Characterizing Long COVID Symptoms During Early Childhood. *JAMA Pediatrics*. 2025 May 27;179(7):781–92. doi: 10.1001/jamapediatrics.2025.1066. PMID: 40554463; PMCID: PMC12117493
+
+4. Guzmán Rivera J, Zheng H, Richlin B, Suarez C, Gaur S, Ricciardi E, Hasan UN, Cuddy W, Singh AR, Bukulmez H, Kaelber DC, Kimura Y, Brady PW, Wahezi D, Rothschild E, Lakhani SA, Herbst KW, **Hogan AH**, Salazar JC, Moroso-Fela S, Roy J, Kleinman LC, Horton DB, Moore DF, Gennaro ML. Combining Mass Spectrometry with Machine Learning to Identify Novel Protein Signatures: The Example of Multisystem Inflammatory Syndrome in Children. *medRxiv* [Preprint]. 2025 Apr 25. doi: 10.1101/2025.04.17.25325767. PMID: 40313298; PMCID: PMC12045438
+
+5. Brimacombe M, Jadhav A, Lawrence DA, Carson K, Lee WT, **Hogan AH**, Herbst KW, Lynes MA, Salazar JC. The Detection of COVID-19-Related Multivariate Biomarker Immune Response in Pediatric Patients: Statistical Aspects. *Viruses*. 2025 Feb 21;17(3):297. doi: 10.3390/v17030297. PMID: 40143228; PMCID: PMC11945793
+
 ## 2024
 
-1.	**Hogan AH**, Herbst KW, Defelice C, Schulman N, Adams AM, Carroll CL, Salazar JC. Going Viral: Assessing the Impact of Social Media on Enrollment in a Coronavirus Disease 2019 (COVID-19) Cohort Study. Cureus. 2024 Mar 13;16(3):e56096. doi: 10.7759/cureus.56096. PMID: 38618422.
+6. Lawrence DA, Jadhav A, Mondal TK, Carson K, Lee WT, **Hogan AH**, Herbst KW, Michelow IC, Brimacombe M, Salazar JC; The Connecticut Children's COVID Collaborative. Inflammatory and Autoimmune Aspects of Multisystem Inflammatory Syndrome in Children (MIS-C): A Prospective Cohort Study. *Viruses*. 2024 Jun 12;16(6):950. doi: 10.3390/v16060950. PMID: 38932242; PMCID: PMC11209514
 
-2. Rogerson CM, Hogan AH, Waldo B, White BR, Carroll CL, Shein SL. Wide Institutional Variability in the Treatment of Pediatric Critical Asthma: A Multicenter Retrospective Study. Pediatr Crit Care Med. 2024 Jan 1;25(1):37-46. doi: 10.1097/PCC.0000000000003347. Epub 2023 Aug 24. PMID: 37615529.
+7. **Hogan AH**, Herbst KW, Defelice C, Schulman N, Adams AM, Carroll CL, Salazar JC. Going Viral: Assessing the Impact of Social Media on Enrollment in a Coronavirus Disease 2019 (COVID-19) Cohort Study. *Cureus*. 2024 Mar 13;16(3):e56096. doi: 10.7759/cureus.56096. PMID: 38618422
+
+8. Rogerson CM, **Hogan AH**, Waldo B, White BR, Carroll CL, Shein SL. Wide Institutional Variability in the Treatment of Pediatric Critical Asthma: A Multicenter Retrospective Study. *Pediatr Crit Care Med*. 2024 Jan 1;25(1):37–46. doi: 10.1097/PCC.0000000000003347. PMID: 37615529
 
 ## 2023
 
-3. Hogan AH*, Espinoza Salomon JC. Challenges and Opportunities in Geospatial Research on Pediatric Social Determinants of Health. Hosp Pediatr. 2023 Aug 1;13(8):e216-e217. doi: 10.1542/hpeds.2023-007284. PubMed PMID: 37455668; PubMed Central PMCID: PMC10375030.
+9. **Hogan AH**, Espinoza Salomon JC. Challenges and Opportunities in Geospatial Research on Pediatric Social Determinants of Health. *Hosp Pediatr*. 2023 Aug 1;13(8):e216–e217. doi: 10.1542/hpeds.2023-007284. PMID: 37455668; PMCID: PMC10375030
 
-4. Maltz-Matyschsyk M, Melchiorre CK, Herbst KW, Hogan AH, Dibble K, O'Sullivan B, Graf J, Jadhav A, Lawrence DA, Lee WT, Carson KJ, Radolf JD, Salazar JC, Lynes MA; Connecticut Children’s COVID Collaborative. Development of a biomarker signature using grating-coupled fluorescence plasmonic microarray for diagnosis of MIS-C. Front Bioeng Biotechnol. 2023 Mar 31;11:1066391. doi: 10.3389/fbioe.2023.1066391. PMID: 37064248; PMCID: PMC10102909.
-
+10. Maltz-Matyschsyk M, Melchiorre CK, Herbst KW, **Hogan AH**, Dibble K, O'Sullivan B, Graf J, Jadhav A, Lawrence DA, Lee WT, Carson KJ, Radolf JD, Salazar JC, Lynes MA; Connecticut Children's COVID Collaborative. Development of a Biomarker Signature Using Grating-Coupled Fluorescence Plasmonic Microarray for Diagnosis of MIS-C. *Front Bioeng Biotechnol*. 2023 Mar 31;11:1066391. doi: 10.3389/fbioe.2023.1066391. PMID: 37064248; PMCID: PMC10102909
 
 ## 2022
 
-5.	Larsen MA, Hogan AH, El Chebib H. A Case Study of a Rapidly Progressive Cellulitis of the Penis and Scrotum in a Two-Month-Old Infant. Cureus. 2022 Dec 6;14(12):e32255. doi: 10.7759/cureus.32255. PMID: 36620839; PMCID: PMC9815153.
+11. Larsen MA, **Hogan AH**, El Chebib H. A Case Study of a Rapidly Progressive Cellulitis of the Penis and Scrotum in a Two-Month-Old Infant. *Cureus*. 2022 Dec 6;14(12):e32255. doi: 10.7759/cureus.32255. PMID: 36620839; PMCID: PMC9815153
 
-6.	Lam JY, Shimizu C, Shimizu C, Tremoulet AH, Bainto E, Roberts SC, Sivilay N, Gardiner MA, Kanegaye JT, Hogan AH, Salazar JC, Mohandas S, Szmuszkovicz JR, Mahanta S, Dionne A, Newburger JW, Ansusinha E, DeBiasi RL, Hao S, Ling XB, Cohen HJ, Nemati S, Burns JC. A machine-learning algorithm for diagnosis of multisystem inflammatory syndrome in children and Kawasaki disease in the USA: a retrospective model development and validation study. Lancet Digit Health. 2022 Oct;4(10):e717-e726. doi: 10.1016/S2589-7500(22)00149-2. PubMed PMID: 36150781; PubMed Central PMCID: PMC9507344.
-
-# Preprints
-
-1. **Lab Member S**, Author T, Author U. (2024). Title of the preprint. *Preprint Server Name*. [DOI or Link]
+12. Lam JY, Shimizu C, Tremoulet AH, Bainto E, Roberts SC, Sivilay N, Gardiner MA, Kanegaye JT, **Hogan AH**, Salazar JC, Mohandas S, Szmuszkovicz JR, Mahanta S, Dionne A, Newburger JW, Ansusinha E, DeBiasi RL, Hao S, Ling XB, Cohen HJ, Nemati S, Burns JC. A Machine-Learning Algorithm for Diagnosis of Multisystem Inflammatory Syndrome in Children and Kawasaki Disease in the USA: A Retrospective Model Development and Validation Study. *Lancet Digit Health*. 2022 Oct;4(10):e717–e726. doi: 10.1016/S2589-7500(22)00149-2. PMID: 36150781; PMCID: PMC9507344

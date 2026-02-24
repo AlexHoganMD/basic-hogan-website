@@ -4,7 +4,7 @@ title: "Research"
 
 # Our Research
 
-Our lab's mission to reduce pediatric morbidity and mortality using health services research (HSR) and community-engaged research (CEnR/CBPR) approaches. Our work spans several key areas:
+Our lab's mission is to reduce pediatric morbidity and mortality using health services research and multi-center collaboration. Our work spans several key areas:
 
 :::: {.columns}
 
@@ -37,9 +37,23 @@ Collaborating with Dr. Kimia's NLP tool [DrT](https://documentreviewtools.com/) 
 :::: {.columns}
 
 ::: {.column width="60%"}
-## Project 3: Health Services Research
+## Project 3: RSV, Bronchiolitis & Nirsevimab
 
-Using large datasets, we analyze the impact of social determinants of health on pediatric respiratory morbidity and mortality.
+Using PHIS and national datasets, we analyze trends in pediatric respiratory morbidity — with active projects on bronchiolitis geographic clustering, nirsevimab effectiveness (including an MMWR report across 24 states), and the impact of maternal RSV vaccination on pediatric hospitalizations.
+:::
+
+::: {.column width="40%"}
+![](images/noun-hospital-1778359.png){width=100px}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="60%"}
+## Project 4: Cannabis Hyperemesis Syndrome (CHS)
+
+We are developing a standardized clinical pathway for CHS management across ED and inpatient settings at Connecticut Children's, paired with a retrospective chart review and multi-center database analysis.
 :::
 
 ::: {.column width="40%"}
@@ -52,6 +66,6 @@ Using large datasets, we analyze the impact of social determinants of health on 
 
 We actively collaborate with researchers from:
 
-- CHA/PHIS
+- [Children's Hospital Assocation/PHIS](https://www.childrenshospitals.org/content/analytics/product-program/pediatric-health-information-system)
 - UCONN GIS Lab at CT Children's
 - Connecticut Children's COVID Collaborative

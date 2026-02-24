@@ -4,45 +4,42 @@ title: "Welcome to the Hogan Lab"
 
 ## Welcome!
 
-We are excited to have you visit the Hogan Lab. We are a diverse group of students, researchers, and collaborators working to better understand the drivers of pediatric morbidity and mortality through the lens of social determinants of health.
-
+We are excited to have you visit the Hogan Lab. We are a diverse group of clinicians, researchers, and trainees working to improve pediatric health outcomes through rigorous clinical and health services research.
 
 ## Our Focus
 
-Our mission is to identify and address modifiable factors that can improve children's lives. We are called to help the most vulnerable patients and reduce inequalities wherever we can.
+Our work centers on pediatric respiratory illness — bronchiolitis, RSV, asthma, and emerging conditions such as Cannabis Hyperemesis Syndrome — using large national datasets, clinical trials, and multi-center collaborations to generate evidence that changes practice.
 
 ## Our Approach
 
 Our approach is methodologically diverse - we use whatever scientific methods are necessary to create rigorous, reproducible, and transparent research. As a member of our research community, you'll find:
 
-- Innovative health services research
-- Community-engaged research approaches
-- Focus on pediatric health outcomes
-- Commitment to health equity
+- Large database and multi-center health services research
+- Prospective cohort and clinical trial design
+- Focus on pediatric respiratory and infectious disease outcomes
+- Commitment to translating findings into clinical practice
 
 [Learn more about our mission and values](mission.qmd)
 
 ## Latest News
 
 ::: {.grid}
-::: {.g-col-4}
+::: {.g-col-6}
 ### Recent Publications
-- [Challenges and Opportunities in Geospatial Research on Pediatric Social Determinants of Health.](https://pubmed.ncbi.nlm.nih.gov/37455668/)
+- [Mapping Bronchiolitis in Connecticut Before and After the COVID-19 Pandemic.](https://doi.org/10.1002/ppul.71450) *Pediatric Pulmonology*, 2026.
 
-- [Inflammatory and Autoimmune Aspects of Multisystem Inflammatory Syndrome in Children (MIS-C): A Prospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/38932242/) 
+- [Nirsevimab Effectiveness Against ICU Admission for RSV in Infants — 24 States.](https://pubmed.ncbi.nlm.nih.gov/41348586/) *MMWR*, 2025.
+
+- [Characterizing Long COVID Symptoms During Early Childhood.](https://pubmed.ncbi.nlm.nih.gov/40554463/) *JAMA Pediatrics*, 2025.
+
 - [View all publications](publications.qmd)
 :::
 
-::: {.g-col-4}
-### Upcoming Events
-- [CT Children's Research Day: 11/14/2024](https://www.connecticutchildrens.org/research-and-innovation/research-institute/connecticut-childrens-research-symposium)
-- [PAS 2025 in Hawaii](https://www.pas-meeting.org/2025-meeting/)
-- [See all events](events.qmd)
-:::
-
-::: {.g-col-4}
+::: {.g-col-6}
 ### Lab Updates
-- New Website Launched November 2024!
-- [More news](news.qmd)
+- **2026:** New paper on bronchiolitis mapping in Connecticut published in *Pediatric Pulmonology*
+- **2025:** Co-author on MMWR report of nirsevimab ICU effectiveness across 24 states
+- **2025:** Co-author on ECHO RECOVER long COVID study in *JAMA Pediatrics*
+- CHS clinical pathway and RCT program launching at CT Children's
 :::
 :::
